@@ -3,7 +3,9 @@ import logo from './logo.svg';
 import './App.css';
 import About from "./pages/About";
 import Projects from "./pages/Projects";
-import Contact from "./pages/Contact"
+import Contact from "./pages/Contact";
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 function App() {
   return (

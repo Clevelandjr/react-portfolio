@@ -1,19 +1,25 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import About from "./pages/About";
+import Projects from "./pages/Projects";
+import Contact from "./pages/Contact"
 
 function App() {
   return (
-    <div className="App">
-      <div className="navigation">
-        <img src={logo} className="logo" alt="Logo Image" />
-        <div className="navigation-sub">
-          <a href="" className="item">About </div>
-          <a href="" className="item">Projects </div>
-          <a href="" className="item">Contact </div>
-      </div>
+    <Router>
+    <div>
+      <Navbar />
+      <Wrapper>
+        <Route exact path="/" component={About} />
+        <Route exact path="/about" component={About} />
+        <Route exact path="/projects" component={Projects} />
+        <Route exact path="/contact" component={Contact} />
+      </Wrapper>
+      <Footer />
     </div>
-  );
+  </Router>
+);
 }
 
 export default App;

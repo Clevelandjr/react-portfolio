@@ -1,6 +1,6 @@
 import React from 'react';
-import Thumbnail from './Thumbnail.js'; // Import the Thumbnail component
-import './App.css';
+import Thumbnail from "./components/Thumbnail"; // Import the Thumbnail component
+
  
 function Projects(props) {
   return (

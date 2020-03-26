@@ -15,25 +15,24 @@ function About(props) {
       <Row>
         <Col size="md-12">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc aliquet diam tortor, id
-            consequat mauris ullamcorper eu. Orci varius natoque penatibus et magnis dis
-            parturient montes, nascetur ridiculus mus. Pellentesque et dui id justo finibus
-            sollicitudin at et metus. Ut feugiat tellus nec metus commodo, sed suscipit nisi
-            gravida. Duis eget vestibulum quam, ut porttitor sem. Donec sagittis mi sollicitudin
-            turpis semper, et interdum risus lobortis. Vestibulum suscipit nunc non egestas
-            tristique. Proin hendrerit efficitur malesuada. Mauris lorem urna, sodales accumsan
-            quam non, tristique tempor erat. Nullam non sem facilisis, tempus tortor sit amet,
-            volutpat nisl. Ut et turpis non nunc maximus mollis a vitae tortor. Pellentesque
-            mattis risus ac quam laoreet cursus. Praesent suscipit orci neque, vestibulum
-            tincidunt augue tincidunt non. Duis consequat mattis tortor vitae mattis.
+          I graduated in 2013 from Shaw University in Raleigh, NC. In my time at Shaw University,
+           I earned a Bachelor of Science in Accounting. My Minor was Business Administration. 
+           Shortly after college I moved to Newport News, Virginia and pursued a career at TMX 
+           Finance. At TMX Finance I became a General Manager. When I became a general manager 
+           and when i left the company, I was the youngest GM in my district. I left the company 
+           after 6 years and moved to Charlotte North Carolina to pursue a career as a full stack 
+           web developer. I have a friend thats been a web developer for over 10 years. He was the
+            one who told me I would be great doing what he does. One of the reasons I want to become
+             a full stack web developer is because of the constant learning. I love that there will
+              always be new opportunities and challenges with this career. In a few years I see 
+              myself advancing as a senior web developer for a company.
           </p>
           <p>
-            Phasellus at rutrum nisl. Praesent sed massa ut ipsum bibendum porttitor. Sed
-            malesuada molestie velit ac viverra. Quisque a ullamcorper purus. Curabitur luctus mi
-            ac mi hendrerit semper. Nulla tincidunt accumsan lobortis. Mauris convallis sapien non
-            nibh porta accumsan. Nunc volutpat tempus porttitor. Nunc congue dictum egestas.
-            Aliquam blandit mi eu urna scelerisque, vitae volutpat ligula ultricies. Maecenas vel
-            porta augue. Fusce mauris ex, dignissim et lacinia ut, tempus eget nibh.
+          Im originally from Brooklyn New York. My father was in the army so we constantly moved 
+          around. In my spare time I love to work out and spend time with my family and friends. 
+          My favorite hobby is basketball and I work out at least 3 times a week. I am also what
+           you would call a foodie. I love to eat and will try any kind of food. I don't have any
+          fur babies but I do have two children.
           </p>
           <p>
             Etiam ut massa efficitur, gravida sapien non, condimentum sapien. Suspendisse massa

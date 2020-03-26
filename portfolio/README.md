@@ -11,8 +11,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 First react portfolio of many!
 
-<img src="/src/images/screenshot1.png">
+<img src="./src/images/screenshot1.png">
 
-<img src="/src/images/screenshot2.png">
+<img src="./src/images/screenshot2.png">
 
-<img src="/src/images/screenshot3.png">
+<img src="./src/images/screenshot3.png">
